@@ -1,0 +1,105 @@
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\BlogApi.exe
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\BlogApi.deps.json
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\BlogApi.runtimeconfig.json
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\BlogApi.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\BlogApi.pdb
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.sourcelink.json
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.BlogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogApi.props
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogApi.props
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogApi.props
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\scopedcss\bundle\BlogApi.styles.css
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.csproj.Up2Date
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\refint\BlogApi.dll
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.pdb
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\BlogApi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Backend\BlogApi\obj\Debug\net8.0\ref\BlogApi.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\appsettings.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\BlogApi.staticwebassets.endpoints.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\BlogApi.exe
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\BlogApi.deps.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\BlogApi.runtimeconfig.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\BlogApi.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\BlogApi.pdb
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.csproj.AssemblyReference.cache
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.AssemblyInfoInputs.cache
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.AssemblyInfo.cs
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.sourcelink.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\scopedcss\bundle\BlogApi.styles.css
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.BlogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.BlogApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogApi.props
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogApi.props
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogApi.props
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.csproj.Up2Date
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\refint\BlogApi.dll
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.pdb
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\BlogApi.genruntimeconfig.cache
+C:\Users\KOJO PHINEHAS❤️\Desktop\Qliq\Backend\c#\BlogApi\obj\Debug\net8.0\ref\BlogApi.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\appsettings.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\BlogApi.exe
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\BlogApi.deps.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\BlogApi.runtimeconfig.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\BlogApi.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\BlogApi.pdb
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.csproj.AssemblyReference.cache
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.AssemblyInfoInputs.cache
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.AssemblyInfo.cs
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.csproj.CoreCompileInputs.cache
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.sourcelink.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.BlogApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogApi.props
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogApi.props
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogApi.props
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\scopedcss\bundle\BlogApi.styles.css
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.csproj.Up2Date
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\refint\BlogApi.dll
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.pdb
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\BlogApi.genruntimeconfig.cache
+C:\Users\KAREN AKUA HANSON\Desktop\QLIQ_BACKEND\BlogApi\obj\Debug\net8.0\ref\BlogApi.dll
